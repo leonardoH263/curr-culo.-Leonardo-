@@ -1,0 +1,63 @@
+string nome;
+            int idade;
+            int RG;
+            int CPF;
+            int data de nascimento;
+            string sexo;
+            String gênero;
+            string etnia;
+            string endereço;
+            int numero;
+            int cep;
+            int telefone;
+            string experiencia;
+            string formaçao;
+            string carta;
+
+            Console.WriteLine("Digite seu gênero:");
+            gênero: Console.ReadLine();
+
+            Console.WriteLine("Digite seu nome:");
+            nome: Console.ReadLine();
+
+            Console.WriteLine("Digite a sua idade:");
+            idade: Console.ReadLine();
+
+            Console.WriteLine("Digite seu RG:");
+        RG: Console.ReadLine();
+
+            Console.WriteLine("Digite seu CPF:");
+        CPF: Console.ReadLine();
+
+            Console.WriteLine("Data de nascimento:");
+        nascimento: Console.ReadLine();
+
+            Console.WriteLine("sexo:");
+        sexo: Console.ReadLine();
+
+            Console.WriteLine("Digite seu entereço:");
+        endereço: Console.ReadLine();
+
+            Console.WriteLine("Digite o numero de sua residência:");
+        numero: Console.ReadLine();
+
+            Console.WriteLine("Digite o seu Cep:");
+        cep: Console.ReadLine();
+
+            Console.WriteLine("Digite seu numero de celular:");
+        telefone: Console.ReadLine();
+
+            Console.WriteLine("Escreva a sua experiência profissional:");
+        experiencia: Console.ReadLine();
+
+            Console.WriteLine("Digite sua formação:");
+        formaçao: Console.ReadLine();
+
+            Console.WriteLine("Escreva-nos uma carta de apresentação:");
+        carta: Console.ReadLine();
+
+
+
+
+
+            Console.ReadKey();
